@@ -11,4 +11,4 @@ Projector disconnection during scan: sub-031
 
 Eight additional participants were scanned but were not included in the current dataset due to unusable behavioral responses, caused by truncated scans, poor audio recording quality, or failure to follow instructions.
 
-fmri error
+During preprocessing with fMRIPrep, magnetic field inhomogeneity correction was not performed for sub-077 due to an error in fieldmap processing.
